@@ -36,8 +36,7 @@ Using the GLUI design interface, the following is the Check Box, using the mouse
 [Part 10. Marching Cubes CPU version] : Displays the Marching Cubes CPU Version. Only the window will work and the rest of the windows will pause.
 
 ### YouTube
-
-
+https://youtu.be/NQhbIr1C5nI
 
 ### YouTube Keywords or Tags
 OpenGL, Slicing, Marching Cubes, CPU, 3D Computer Graphics, 
